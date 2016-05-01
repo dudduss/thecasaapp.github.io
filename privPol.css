@@ -1,0 +1,9 @@
+body {
+  background: rgba(217, 220, 220, 0.33);
+}
+.privBox {
+  background: rgba(88, 193, 241, 0.61);
+  margin: 50px;
+  padding: 20px;
+  border-radius: 10px;
+}
