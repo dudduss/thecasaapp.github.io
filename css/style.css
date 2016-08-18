@@ -991,6 +991,7 @@
 		padding: 14em 0;
 		text-align: center;
 		position: relative;
+		opacity: 0.5;
 	}
 
 		#banner:before {
